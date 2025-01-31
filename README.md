@@ -48,5 +48,5 @@ This project analyzes customer reviews using three sentiment analysis methods: *
 
 ## **2. Customer Modeling**
 
-This project focuses on understanding why customers.
+This project focuses on understanding what influences a customer's flight booking.
 
